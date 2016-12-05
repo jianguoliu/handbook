@@ -1,0 +1,4 @@
+很多时候我们可能用Github都用于托管我们的代码，但是如何展示我们的项目呢？其实我们可以借助Github的gh-pages打造自己的项目展示，无论是对自己的提升整合，还是日后的面试都大有裨益。
+
+## 准备
+Github创建项目仓库后会创建一个master分支，只要添加gh-pages分支就可以创建静态页面了。可以利用项目站点（Project pages）的方式，还有一种方式是创建站点的方式User/Organization Pages。我们现在讲的是怎么创建一个Project pages。
